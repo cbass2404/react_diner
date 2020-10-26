@@ -2,7 +2,8 @@ import React, { Component } from "react";
 
 import Menu from "./subcomponents/menu_section";
 import Response from "./subcomponents/response_section";
-import Selection from "./subcomponents/selection_section";
+
+import "../styles/main.scss";
 
 class App extends Component {
   constructor(props) {
@@ -18,10 +19,9 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <div className="app-wrapper">
         <Menu />
         <Response />
-        <Selection />
       </div>
     );
   }

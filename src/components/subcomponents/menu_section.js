@@ -2,7 +2,7 @@ import React from "react";
 
 const Menu = (props) => {
   return (
-    <div>
+    <div className="menu-wrapper">
       <h1>Menu</h1>
     </div>
   );

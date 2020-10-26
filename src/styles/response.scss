@@ -1,0 +1,15 @@
+.response-wrapper {
+  color: blue;
+  background-color: red;
+  height: 93vh;
+  width: 32vw;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-rows: 4fr 1fr;
+
+  .response-content {
+    color: red;
+    background-color: blue;
+  }
+}
