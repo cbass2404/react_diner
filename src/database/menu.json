@@ -5,7 +5,12 @@
       { "pancakes": 4.99 },
       { "two fried eggs": 2.99 }
     ],
-    "side": [{ "bacon": 3.99 }, { "hashbrowns": 2.99 }, { "oatmeal": 1.99 }]
+    "side": [
+      { "bacon": 3.99 },
+      { "hashbrowns": 2.99 },
+      { "oatmeal": 1.99 },
+      { "cheese grits": 1.99 }
+    ]
   },
   "lunch": {
     "entree": [
@@ -22,7 +27,12 @@
     ]
   },
   "dinner": {
-    "entree": [{ "ribs": 10.99 }, { "steak": 11.99 }, { "bbq sandwich": 6.99 }],
+    "entree": [
+      { "ribs": 10.99 },
+      { "steak": 11.99 },
+      { "bbq sandwich": 6.99 },
+      { "blackened tuna steak": 12.99 }
+    ],
     "side": [
       { "mashed potatos": 2.99 },
       { "steamed vegetables": 3.99 },
