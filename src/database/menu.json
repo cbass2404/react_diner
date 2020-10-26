@@ -1,0 +1,33 @@
+{
+  "breakfast": {
+    "entree": [
+      { "omelot": 5.99 },
+      { "pancakes": 4.99 },
+      { "two fried eggs": 2.99 }
+    ],
+    "side": [{ "bacon": 3.99 }, { "hashbrowns": 2.99 }, { "oatmeal": 1.99 }]
+  },
+  "lunch": {
+    "entree": [
+      { "burger": 2.99 },
+      { "cheeseburger": 3.99 },
+      { "hotdog": 1.99 },
+      { "chili cheese dog": 3.99 }
+    ],
+    "side": [
+      { "french fries": 1.99 },
+      { "spicy french fries": 2.99 },
+      { "okra": 2.99 },
+      { "fruit bowl": 3.99 }
+    ]
+  },
+  "dinner": {
+    "entree": [{ "ribs": 10.99 }, { "steak": 11.99 }, { "bbq sandwich": 6.99 }],
+    "side": [
+      { "mashed potatos": 2.99 },
+      { "steamed vegetables": 3.99 },
+      { "baked potato": 3.99 },
+      { "loaded baked potato": 5.99 }
+    ]
+  }
+}
