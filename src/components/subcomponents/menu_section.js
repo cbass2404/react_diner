@@ -3,7 +3,12 @@ import React from "react";
 const Menu = (props) => {
   return (
     <div className="menu-wrapper">
-      <h1>Menu</h1>
+      <div className="left-page-menu">
+        <h1>LEFT</h1>
+      </div>
+      <div className="right-page-menu">
+        <h1>RIGHT</h1>
+      </div>
     </div>
   );
 };

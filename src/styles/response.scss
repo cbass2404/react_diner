@@ -7,9 +7,18 @@
   justify-content: center;
   align-items: center;
   grid-template-rows: 4fr 1fr;
+  border: 2px solid white;
+  border-radius: 5px;
 
   .response-content {
     color: red;
     background-color: blue;
+    height: 100%;
+  }
+
+  .button-wrapper {
+    color: black;
+    background-color: red;
+    height: 100%;
   }
 }
