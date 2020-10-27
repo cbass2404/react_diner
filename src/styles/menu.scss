@@ -1,8 +1,25 @@
 .menu-wrapper {
   color: red;
   background-color: blue;
+  text-align: center;
   height: 93vh;
   width: 62vw;
   border: 2px solid white;
   border-radius: 5px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+
+  .left-page-menu {
+    height: 100%;
+    background-color: yellow;
+    border-right: 2px solid white;
+  }
+
+  .right-page-menu {
+    height: 100%;
+    background-color: orange;
+    border-right: 2px solid white;
+  }
 }
