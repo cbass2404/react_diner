@@ -1,7 +1,6 @@
 .menu-wrapper {
   color: red;
   background-color: blue;
-  text-align: center;
   height: 93vh;
   width: 62vw;
   border: 2px solid white;
@@ -9,17 +8,33 @@
   display: grid;
   justify-content: center;
   align-items: center;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
 
-  .left-page-menu {
-    height: 100%;
+  .menu-page {
     background-color: yellow;
-    border-right: 2px solid white;
   }
 
-  .right-page-menu {
-    height: 100%;
+  #bf-entree {
+    background-color: purple;
+  }
+
+  #bf-side {
     background-color: orange;
-    border-right: 2px solid white;
+  }
+
+  #lun-entree {
+    background-color: purple;
+  }
+
+  #lun-side {
+    background-color: orange;
+  }
+
+  #din-entree {
+    background-color: purple;
+  }
+
+  #din-side {
+    background-color: orange;
   }
 }
