@@ -5,10 +5,9 @@
   width: 62vw;
   border: 2px solid white;
   border-radius: 5px;
-  display: grid;
+  display: flex;
   justify-content: center;
   align-items: center;
-  grid-template-columns: 1fr;
 
   .menu-page {
     background-color: yellow;

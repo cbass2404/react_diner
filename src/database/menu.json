@@ -1,43 +1,44 @@
 {
   "breakfast": {
     "entree": [
-      { "omelot": 5.99 },
-      { "pancakes": 4.99 },
-      { "two fried eggs": 2.99 }
+      { "name": "Omelot", "price": 3.99 },
+      { "name": "Two fried eggs", "price": 2.99 },
+      { "name": "Pancakes", "price": 4.99 }
     ],
     "side": [
-      { "bacon": 3.99 },
-      { "hashbrowns": 2.99 },
-      { "oatmeal": 1.99 },
-      { "cheese grits": 1.99 }
+      { "name": "Bacon", "price": 3.99 },
+      { "name": "Hashbrowns", "price": 2.99 },
+      { "name": "Oatmeal", "price": 1.99 },
+      { "name": "Cheese grits", "price": 1.99 }
     ]
   },
   "lunch": {
     "entree": [
-      { "burger": 2.99 },
-      { "cheeseburger": 3.99 },
-      { "hotdog": 1.99 },
-      { "chili cheese dog": 3.99 }
+      { "name": "Burger", "price": 2.99 },
+      { "name": "Cheeseburger", "price": 3.99 },
+      { "name": "Hotdog", "price": 1.99 },
+      { "name": "Chili cheese dog", "price": 3.99 }
     ],
+
     "side": [
-      { "french fries": 1.99 },
-      { "spicy french fries": 2.99 },
-      { "okra": 2.99 },
-      { "fruit bowl": 3.99 }
+      { "name": "French fries", "price": 1.99 },
+      { "name": "Spicy french fries", "price": 2.99 },
+      { "name": "Okra", "price": 2.99 },
+      { "name": "Fruit bowl", "price": 3.99 }
     ]
   },
   "dinner": {
     "entree": [
-      { "ribs": 10.99 },
-      { "steak": 11.99 },
-      { "bbq sandwich": 6.99 },
-      { "blackened tuna steak": 12.99 }
+      { "name": "Ribs", "price": 10.99 },
+      { "name": "Steak", "price": 11.99 },
+      { "name": "BBQ sandwich", "price": 6.99 },
+      { "name": "Blackened tuna steak", "price": 12.99 }
     ],
     "side": [
-      { "mashed potatos": 2.99 },
-      { "steamed vegetables": 3.99 },
-      { "baked potato": 3.99 },
-      { "loaded baked potato": 5.99 }
+      { "name": "Mashed potatos", "price": 2.99 },
+      { "name": "Steamed vegetables", "price": 3.99 },
+      { "name": "Baked potato", "price": 3.99 },
+      { "name": "Loaded baked potato", "price": 5.99 }
     ]
   }
 }
